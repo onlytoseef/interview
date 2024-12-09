@@ -22,3 +22,4 @@ const reult = myName();
 console.log(reult);
 
 // Lexical Scoping and Closure
+// Added Another Comment
