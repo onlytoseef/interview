@@ -20,3 +20,5 @@ const myName = function () {
 
 const reult = myName();
 console.log(reult);
+
+// Lexical Scoping and Closure
