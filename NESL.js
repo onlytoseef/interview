@@ -26,3 +26,7 @@
 
 // Onsite Questions
 // Flat this array a=[1,2,3,[4,[5,6]]]
+// a=[1,2,3,4,5,6]
+// a.splice[0,3]
+// a.slice[2,5]
+// console.log(a)
