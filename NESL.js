@@ -23,3 +23,6 @@
 // What is put and patch ?
 // what is callbackhell ?
 // write a function tahat takes an argument and return a promise if number >60 resolve, reject
+
+// Onsite Questions
+// Flat this array a=[1,2,3,[4,[5,6]]]
