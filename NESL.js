@@ -30,3 +30,4 @@
 // a.splice[0,3]
 // a.slice[2,5]
 // console.log(a)
+// what are promise
