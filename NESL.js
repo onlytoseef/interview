@@ -32,3 +32,4 @@
 // console.log(a)
 // what are promise
 // wrie a promise with example
+// MongoDb operators and or operators
