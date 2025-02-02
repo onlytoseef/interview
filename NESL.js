@@ -31,3 +31,4 @@
 // a.slice[2,5]
 // console.log(a)
 // what are promise
+// wrie a promise with example
